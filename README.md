@@ -23,6 +23,6 @@ Olá! Lucas Silva
  
 Confira meus repositórios para acompanhar minha evolução e meus projetos:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github)]([https://github.com/lucasdesa1007-dot](https://github.com/lucasdesa1007-dot?tab=repositories))
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github)]([https://github.com/lucasdesa1007-dot])
  
  
