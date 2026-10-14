@@ -11,7 +11,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,sqlite,vscode" />
 
-</p>🐍 Minha jornada
+</p> Minha jornada
  
 - 🌱 Estudando Python e lógica de programação.
 - 🗄️ Aprendendo SQL e banco de dados.
@@ -23,7 +23,7 @@
  
 Confira meus repositórios para acompanhar minha evolução e meus projetos:
  
-""GitHub" (https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github)" (https://github.com/SEU_USUARIO?tab=repositories)
+""GitHub" (https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github)" (https://github.com/lucasdesa1007-dot?tab=repositories)
  
 ---
  
